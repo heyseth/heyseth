@@ -1,6 +1,6 @@
 ## Hello world!
 
-Hi, I'm Seth, a front-end developer.
+Hi, I'm Seth, a software engineer and full-stack developer.
 
 ### Skills & Tools
 <!-- still learning these
