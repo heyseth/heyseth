@@ -1,6 +1,6 @@
 ## Hello world!
 
-Hi, I'm Seth, a software engineer and full-stack developer.
+Hi, I'm Seth, a software engineer, full-stack developer, and context engineer.
 
 ### Skills & Tools
 <!-- still learning these
